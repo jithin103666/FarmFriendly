@@ -3,7 +3,7 @@ http://qpypi.qpython.org/repository/206027/scikit_learn-0.23.2-cp36-cp36m-manyli
 numpy
 pandas
 Flask
-scikit-learn==0.21
+scikit-learn==0.23.2
 python==3.6.12
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
