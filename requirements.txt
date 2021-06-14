@@ -1,4 +1,5 @@
 -f https://download.pytorch.org/whl/torch_stable.html
+http://qpypi.qpython.org/repository/206027/scikit_learn-0.23.2-cp36-cp36m-manylinux1_x86_64.whl#56524a76a2dca683cc5257d8b658d1e2
 numpy
 pandas
 Flask
