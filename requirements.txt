@@ -1,12 +1,11 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-http://qpypi.qpython.org/repository/206027/scikit_learn-0.23.2-cp36-cp36m-manylinux1_x86_64.whl#56524a76a2dca683cc5257d8b658d1e2
-numpy
-pandas
+numpy==1.19.4
+pandas==1.1.4
 Flask==1.1.2
 scikit-learn==0.23.2
 python==3.6.12
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
-requests
-Pillow
+requests2.25.0
+Pillow==8.0.1
 gunicorn == 20.0.4
